@@ -1,1 +1,1 @@
-Contains Git tasks.
+Contains the first Git tasks.
